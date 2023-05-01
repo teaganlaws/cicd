@@ -7,8 +7,8 @@ Author: Wolf Paulus (https://wolfpaulus.com)
 import urllib.request
 import json
 
-server_url = "http://localhost:8080"  # change this to the URL of your WebService
-server_url ="https://erau08.techcasitaproductions.com/"
+#server_url = "http://localhost:8080"  # change this to the URL of your WebService
+server_url ="https://erau11.techcasitaproductions.com/"
 service_url = f"{server_url}/?number="
 health_url = f"{server_url}/health"
 
