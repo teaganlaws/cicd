@@ -15,7 +15,7 @@
   },
   {
     "name": "Teagan Laws",
-    "project": "Odd/Even Checker",
+    "project": "Find out facts about your number",
     "github": "https://github.com/teaganlaws/cicd",
     "docker": "https://github.com/teaganlaws/cicd/pkgs/container/cicd",
     "server": "https://erau11.techcasitaproductions.com/"
