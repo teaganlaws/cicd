@@ -3,7 +3,7 @@ Test the main module.
 Author: Wolf Paulus (wolf@paulus.com), Teagan Laws
 """
 from unittest import TestCase
-from main import is_odd, is_odd_str
+from main import is_odd, is_odd_str, is_prime, is_prime_str, is_divisible_by_23
 
 
 class Test(TestCase):
