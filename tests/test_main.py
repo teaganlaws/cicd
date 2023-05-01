@@ -33,7 +33,7 @@ class Test(TestCase):
         assert is_prime_str("A") == "Please enter a number."
         assert is_prime_str("") == "Please enter a number."
         
-    def is_divisible_by_23(self):
+    def test_is_divisible_by_23(self):
         assert is_prime(230)
         assert is_prime(46)
         assert not is_prime(49)
